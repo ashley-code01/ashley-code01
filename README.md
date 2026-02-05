@@ -4,18 +4,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34EB5C&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Software+Engineer;AI+Developer+%7C+Building+with+Code;Learning+in+Public+%F0%9F%9A%80;One+Commit+at+a+Time" alt="Typing SVG" />
 
-<br />
+[![Email](https://img.shields.io/badge/Email-34eb5c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:motsieashley31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-34eb5c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
+[![YouTube](https://img.shields.io/badge/YouTube-34eb5c?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@Ashley.Programmer)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-34eb5c?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/27760932272)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=34eb5c)](https://chatdevhub.netlify.app/)
 
-[![Email](https://img.shields.io/badge/Email-34eb5c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-34eb5c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/yourprofile)
-[![Committers.top](https://img.shields.io/badge/Committers.top-34eb5c?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://committers.top/south_africa)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashley-code01&color=34eb5c&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Analytics badges -->
 [![committers.top badge](https://user-badge.committers.top/south_africa/ashley-code01.svg)](https://user-badge.committers.top/south_africa/ashley-code01)
+![Profile Views](https://komarev.com/ghpvc/?username=ashley-code01&color=34eb5c&style=for-the-badge&label=NEURAL+NETWORK+VISITORS)
+<img src="https://img.shields.io/github/followers/ashley-code01?style=for-the-badge&logo=github&labelColor=000000&color=34eb5c&label=FOLLOWERS" alt="Followers"/>
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
