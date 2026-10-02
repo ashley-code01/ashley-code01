@@ -1,112 +1,195 @@
 <div align="center">
-
-# Ashley Motsie
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=34EB5C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;AI+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
-
-[![Email](https://img.shields.io/badge/Email-34eb5c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:motsieashley31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-34eb5c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=000000&labelColor=34eb5c)](https://chatdevhub.netlify.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-34eb5c?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@Ashley.Programmer)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashley-code01&color=34eb5c&style=for-the-badge)
-[![committers.top](https://user-badge.committers.top/south_africa/ashley-code01.svg)](https://user-badge.committers.top/south_africa/ashley-code01)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:2f334d,100:7aa2f7&height=200&section=header&text=Ashley%20K%20Motsie&fontSize=52&fontColor=c0caf5&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20AI%20Engineer%20%7C%20Rustenburg%2C%20ZA%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=56&descAlign=50&descSize=18" width="100%" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 👨‍💻 About Me
-
-I'm a **Full-Stack Developer** and **Software Engineer** based in South Africa, specializing in building scalable web applications with modern technologies. My expertise spans frontend development with React and Next.js, backend systems with Django and Node.js, and AI integration.
-
-I'm passionate about writing clean, maintainable code and creating innovative solutions that solve real-world problems. With a focus on continuous learning and best practices, I bring a detail-oriented approach to every project.
-
-**🎯 Core Competencies:**
-- Full-stack web application development
-- RESTful API design and implementation
-- Frontend architecture with React and Next.js
-- AI and machine learning integration
-- Responsive UI/UX implementation
-- Version control and collaborative development
-
-**📍 Location:** South Africa 🇿🇦  
-**💼 Open to:** Full-time opportunities, freelance projects, and collaboration  
-**📧 Contact:** motsieashley31@gmail.com
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🛠️ Technical Skills
 
 <div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=ashley-code01&theme=dark&show_icons=true&count_private=true&title_color=34eb5c&icon_color=13e065&text_color=13e065&bg_color=0d1117&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=ashley-code01&theme=dark&ring=13e065&fire=34eb5c&currStreakLabel=13e065&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashley-code01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34eb5c&text_color=13e065&langs_count=8" width="45%" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=%24+whoami;%3E+software_developer+%26%26+ai_engineer;%24+status+--set%3Dopen_to_remote" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashley-code01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title_color=34eb5c&text_color=13e065" width="100%" alt="GitHub Trophies" />
-</div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashley-code01&theme=github-dark&bg_color=0d1117&color=34eb5c&line=13e065&point=34eb5c&area=true&hide_border=true)
+[![Email](https://img.shields.io/badge/Email-motsieashley31%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26)](mailto:motsieashley31@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashley%20K%20Motsie-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashleydevhub.vercel.app-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=1a1b26&labelColor=7aa2f7)](https://ashleydevhub.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Ashley.Programmer-7aa2f7?style=for-the-badge&logo=youtube&logoColor=c0caf5&labelColor=1a1b26)](https://www.youtube.com/@Ashley.Programmer)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
 
-## 🤝 Let's Connect
+[![committers.top badge](https://user-badge.committers.top/south_africa/ashley-code01.svg)](https://user-badge.committers.top/south_africa/ashley-code01)
+![Profile Views](https://komarev.com/ghpvc/?username=ashley-code01&color=7aa2f7&style=for-the-badge&label=VISITORS)
 
-I'm always interested in connecting with fellow developers, potential collaborators, and opportunities to contribute to meaningful projects. Feel free to reach out!
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ whoami`
+
+I'm a software developer and AI engineer based in Rustenburg, South Africa. I build full-stack web apps and AI-powered systems — from voice assistants and chatbots to network infrastructure and Web3 tools. Most of what I ship is self-taught and production-facing, not just side projects. I've completed contracts at two tech firms and I'm currently freelancing while looking for a remote full-time role where I can keep building things that actually work.
+
+Outside of code I write poetry and I'm learning C from the ground up.
+
+🟢 **Open to full-time remote opportunities.**
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ history --experience`
+
+<div align="center">
+<table>
+
+<tr>
+<td width="18%" align="center"><b>Jul 2025<br/>– May 2026</b></td>
+<td>
+
+**Software Developer & AI Engineer** · AI Global Networks
+<br/>
+<sub>Consulted on the AGN site (Groq-powered chatbot, Google Calendar booking integration) and built `webaudit`, a Playwright-based CLI auditing tool.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/CONTRACT-COMPLETED-7aa2f7?style=flat-square&labelColor=1a1b26" />
+
+</td>
+</tr>
+
+<tr><td colspan="2"><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:2f334d,100:1a1b26&height=1&section=header" width="100%"/></div></td></tr>
+
+<tr>
+<td width="18%" align="center"><b>Jun 2025<br/>– May 2026</b></td>
+<td>
+
+**Jr Software Developer & IT Technician** · Eullafied Tech Solutions
+<br/>
+<sub>Shipped the ETS WiFi Captive Portal (Node.js/Express/SQLite, AES-256-GCM, JWT) and the Intern Management System monorepo, end to end.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/CONTRACT-COMPLETED-7aa2f7?style=flat-square&labelColor=1a1b26" />
+
+</td>
+</tr>
+
+<tr><td colspan="2"><div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:2f334d,100:1a1b26&height=1&section=header" width="100%"/></div></td></tr>
+
+<tr>
+<td width="18%" align="center"><b>Ongoing</b></td>
+<td>
+
+**Web Developer & Graphic Designer** · Maps Media Productions
+<br/>
+<sub>Web development and graphic design across client sites and campaigns.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-9ece6a?style=flat-square&labelColor=1a1b26" />
+
+</td>
+</tr>
+
+</table>
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ ls ~/projects`
+
+<div align="center">
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/CLARE-AI_VOICE_ASSISTANT-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+<br/><br/>
+<b>Clare - AI Voice Assistant</b>
+<br/><br/>
+<sub>
+A full voice-AI pipeline with persistent memory and a live Mission Control Dashboard. Runs on a free-tier provider stack - Deepgram STT, Groq LLM, Cartesia TTS, Silero VAD - backed by Supabase.
+</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7aa2f7" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/TRADING_R1-TRACE_MARKET-bb9af7?style=for-the-badge&labelColor=1a1b26" />
+<br/><br/>
+<b>Trading-R1 Trace Market</b>
+<br/><br/>
+<sub>
+A reasoning-trace marketplace built for the Agora Agents Hackathon. Two Solidity contracts deployed on Arc Testnet, a Next.js 15 frontend with wagmi/RainbowKit, and a Python agent pipeline on Groq + Pinata.
+</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7aa2f7" />
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/DRIVER-DROWSINESS_MONITOR-f7768e?style=for-the-badge&labelColor=1a1b26" />
+<br/><br/>
+<b>Driver Drowsiness & Fatigue Monitor</b>
+<br/><br/>
+<sub>
+A computer-vision safety system tracking eye closure, yawns, and gaze to compute a real-time fatigue score and trigger high-risk alerts. Includes a dashboard for logging events and exporting driving data.
+</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ cat stack.json`
 
 <div align="center">
 
-**📧 Email:** [motsieashley31@gmail.com](mailto:motsieashley31@gmail.com)  
-**💼 LinkedIn:** [Ashley K. Motsie](https://www.linkedin.com/in/ashley-k-motsie-718686263/)  
-**🌐 Portfolio:** [chatdevhub.netlify.app](https://chatdevhub.netlify.app/)  
-**📺 YouTube:** [@Ashley.Programmer](https://www.youtube.com/@Ashley.Programmer)
+| Layer | Technologies |
+|---|---|
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7aa2f7) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **AI / ML** | ![Groq](https://img.shields.io/badge/Groq_API-7aa2f7?style=flat-square&logoColor=white) ![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black) ![Cartesia](https://img.shields.io/badge/Cartesia-1a1b26?style=flat-square&logoColor=7aa2f7) ![LangChain](https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=langchain&logoColor=7aa2f7) ![LiveKit](https://img.shields.io/badge/LiveKit-FF4F00?style=flat-square&logoColor=white) |
+| **Web3** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=7aa2f7) ![GitHub Actions](https://img.shields.io/badge/Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) |
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=34eb5c&height=100&section=footer" width="100%"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ git log --stats`
+
+<div align="center">
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=ashley-code01&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=ashley-code01&theme=tokyonight&hide_border=true&background=1a1b26" width="49%" alt="GitHub Streak" />
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+## `$ git log --graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashley-code01&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
+
+<div align="center">
+
+### 💼 Open to full-time roles, freelance & remote collaboration
+
+*Currently based in Rustenburg, ZA · SAST (UTC+2) · Responds within 24hrs*
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-7aa2f7?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26)](mailto:motsieashley31@gmail.com)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=1a1b26&labelColor=7aa2f7)](https://ashleydevhub.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:2f334d,100:1a1b26&height=120&section=footer&text=%24+exit+0&fontSize=20&fontColor=c0caf5&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
