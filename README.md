@@ -123,6 +123,17 @@ My featured projects live on my main account.
 | **Web3** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![wagmi](https://img.shields.io/badge/wagmi-1C1B1F?style=flat-square&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-1a1b26?style=flat-square&logo=vercel&logoColor=7aa2f7) ![GitHub Actions](https://img.shields.io/badge/Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white) |
 
+
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=7aa2f7) ![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7) ![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7aa2f7) ![HTML](https://img.shields.io/badge/HTML-1a1b26?style=for-the-badge&logo=html5&logoColor=7aa2f7) ![CSS](https://img.shields.io/badge/CSS-1a1b26?style=for-the-badge&logo=css3&logoColor=7aa2f7) ![SQL](https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7) ![Solidity](https://img.shields.io/badge/Solidity-1a1b26?style=for-the-badge&logo=solidity&logoColor=7aa2f7)
+
+<br/>
+
+**Platforms**
+<br/>
+![Web](https://img.shields.io/badge/Web-1a1b26?style=for-the-badge&logo=microsoft-edge&logoColor=7aa2f7) ![Linux](https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=7aa2f7)
+
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
@@ -130,8 +141,21 @@ My featured projects live on my main account.
 ## `$ git log --stats`
 
 <div align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/?username=ashley-code01&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=ashley-code01&theme=tokyonight&hide_border=true&background=1a1b26" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashley-code01&theme=tokyonight" width="98%" alt="profile-details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashley-code01&theme=tokyonight" width="49%" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashley-code01&theme=tokyonight" width="49%" alt="productive-time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashley-code01&theme=tokyonight" width="49%" alt="repos-per-language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashley-code01&theme=tokyonight" width="49%" alt="most-commit-language" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=ashley-code01&theme=tokyonight&hide_border=true&background=1a1b26" width="98%" alt="GitHub Streak" />
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
