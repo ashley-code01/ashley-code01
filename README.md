@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashley%20K%20Motsie-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashleydevhub.vercel.app-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=1a1b26&labelColor=7aa2f7)](https://ashleydevhub.vercel.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-Ashley.Programmer-7aa2f7?style=for-the-badge&logo=youtube&logoColor=c0caf5&labelColor=1a1b26)](https://www.youtube.com/@Ashley.Programmer)
+[![Main Account](https://img.shields.io/badge/Main_Account-KodEx--SA-bb9af7?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/KodEx-SA)
 
 </div>
 
@@ -29,6 +30,8 @@
 ## `$ whoami`
 
 I'm a software developer and AI engineer based in Rustenburg, South Africa. I build full-stack web apps and AI-powered systems — from voice assistants and chatbots to network infrastructure and Web3 tools. Most of what I ship is self-taught and production-facing, not just side projects. I've completed contracts at two tech firms and I'm currently freelancing while looking for a remote full-time role where I can keep building things that actually work.
+
+This is my secondary GitHub account, which I use alongside my main one, [KodEx-SA](https://github.com/KodEx-SA). My main projects live there.
 
 Outside of code I write poetry and I'm learning C from the ground up.
 
@@ -92,56 +95,17 @@ Outside of code I write poetry and I'm learning C from the ground up.
 ## `$ ls ~/projects`
 
 <div align="center">
-<table>
-<tr>
 
-<td width="33%" align="center">
+My featured projects live on my main account.
 
 <img src="https://img.shields.io/badge/CLARE-AI_VOICE_ASSISTANT-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
-<br/><br/>
-<b>Clare - AI Voice Assistant</b>
-<br/><br/>
-<sub>
-A full voice-AI pipeline with persistent memory and a live Mission Control Dashboard. Runs on a free-tier provider stack - Deepgram STT, Groq LLM, Cartesia TTS, Silero VAD - backed by Supabase.
-</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7aa2f7" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-
-</td>
-
-<td width="33%" align="center">
-
 <img src="https://img.shields.io/badge/TRADING_R1-TRACE_MARKET-bb9af7?style=for-the-badge&labelColor=1a1b26" />
-<br/><br/>
-<b>Trading-R1 Trace Market</b>
-<br/><br/>
-<sub>
-A reasoning-trace marketplace built for the Agora Agents Hackathon. Two Solidity contracts deployed on Arc Testnet, a Next.js 15 frontend with wagmi/RainbowKit, and a Python agent pipeline on Groq + Pinata.
-</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-1a1b26?style=flat-square&logo=next.js&logoColor=7aa2f7" />
-
-</td>
-
-<td width="33%" align="center">
-
 <img src="https://img.shields.io/badge/DRIVER-DROWSINESS_MONITOR-f7768e?style=for-the-badge&labelColor=1a1b26" />
-<br/><br/>
-<b>Driver Drowsiness & Fatigue Monitor</b>
-<br/><br/>
-<sub>
-A computer-vision safety system tracking eye closure, yawns, and gaze to compute a real-time fatigue score and trigger high-risk alerts. Includes a dashboard for logging events and exporting driving data.
-</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 
-</td>
+<br/><br/>
 
-</tr>
-</table>
+[![See my main account](https://img.shields.io/badge/See_my_main_account-github.com%2FKodEx--SA-7aa2f7?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/KodEx-SA)
+
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2&section=header" width="100%"/></div>
@@ -186,6 +150,7 @@ A computer-vision safety system tracking eye closure, yawns, and gaze to compute
 
 *Currently based in Rustenburg, ZA · SAST (UTC+2) · Responds within 24hrs*
 
+[![Main Account](https://img.shields.io/badge/Main%20Account-bb9af7?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b26)](https://github.com/KodEx-SA)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-7aa2f7?style=for-the-badge&logo=gmail&logoColor=c0caf5&labelColor=1a1b26)](mailto:motsieashley31@gmail.com)
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=1a1b26&labelColor=7aa2f7)](https://ashleydevhub.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=c0caf5&labelColor=1a1b26)](https://www.linkedin.com/in/ashley-k-motsie-718686263/)
